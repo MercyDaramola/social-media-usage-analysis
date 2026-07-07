@@ -63,7 +63,16 @@ The dataset consists of responses collected through a structured questionnaire c
 - CGPA
 - Study Hours
 - Social Media Hours
-- 
+
+# Data Cleaning & transformation
+- Removed duplicate responses.
+- Checked for missing values.
+- Standardized text values.
+- Converted Yes/No responses to binary values (1 and 0) where required.
+- Converted Likert Scale responses into numerical values for analysis.
+- Created calculated measures using DAX.
+- Created KPI measures for dashboard visualization.
+
 # Key Insights
 
 - Social Media Usage Hours has a negative relationship with academic performance: The analysis shows a negative correlation (-0.01) between social media usage hours and CGPA. This shows that increased social media usage is associated with decline in academic performance, although the relationship is relatively weak.
