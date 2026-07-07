@@ -117,6 +117,6 @@ Mercy Daramola
 
 Junior Data Analyst
 
-LinkedIn: (your LinkedIn)
+LinkedIn: https://www.linkedin.com/in/mercyy-daramola
 
-GitHub: (your GitHub)
+GitHub:https://github.com/MercyDaramola
