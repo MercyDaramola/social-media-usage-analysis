@@ -1,6 +1,6 @@
 # Analyzing the impact of Social Media Usage on Student Academic Performance using Data Visualization Technique
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)
 # Project Overview
 
 This project analyzes the relationship between students' social media usage and their academic performance using Power BI. The dashboard provides interactive visualizations that reveal usage patterns, study habits, and how social media influences academic outcomes.
@@ -109,7 +109,7 @@ The dataset consists of responses collected through a structured questionnaire c
 - Documentation
 - Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard1.png)
 
 Author
 
